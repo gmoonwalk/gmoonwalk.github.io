@@ -99,3 +99,17 @@ Host mk.github.com
 git remote remove origin # 先删除原有remote
 git remote add origin git@mk.github.com:gmoonwalk/gmoonwalk # 设置新的remote
 ```
+
+## Github的SSH访问方式
+
+简单介绍一下github ssh的访问方式。
+
+ssh是一种安全访问的协议，Secure Shell，常用来进行某个主机的远程访问，例如：
+
+`ssh root@myhost.com`
+
+其中root是用户名，myhost.com指对应的主机名，回车后，提示输入密码。密码正确，就验证了用户身份为root对主机进行访问。
+
+github的ssh访问方式也是如此，比如地址`git@github.com:gmoonwalk/gmoonwalk.github.io.git`，git就是用户名，后面的部分是具体的资源。然后通过ssh key本地持有私钥，公钥提交到github后台设置，以这样的方式完成身份认证。通过后，就可以得到repo的读写权限。
+
+
