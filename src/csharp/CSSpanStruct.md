@@ -4,7 +4,7 @@ date: 2023-06-11
 category:
   - 编程语言
 tag:
-  - c#
+  - csharp
 ---
 
 # C# Span<T> Struct
