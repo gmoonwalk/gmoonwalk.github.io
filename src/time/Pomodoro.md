@@ -27,7 +27,7 @@ tag:
 
 可乐周报中用图形做的阅读笔记非常详尽，直接存档留作后续参考就好了
 
-![f4b7ca4a-57de-4445-a7a1-accec592c14a_9514x6684.jpeg](assets/images/pomodoro.jpeg)
+![f4b7ca4a-57de-4445-a7a1-accec592c14a_9514x6684.jpeg](pomodoro.jpeg)
 
 ### **原则**
 
