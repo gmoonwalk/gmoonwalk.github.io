@@ -1,4 +1,5 @@
 ---
+cover: /assets/images/pomodoroHead.png
 icon: pen-to-square
 date: 2023-06-16
 category:
@@ -8,8 +9,6 @@ tag:
   - timeManagment
 ---
 # Notion中应用番茄工作法
-
-![Preview](pomodoroInNotion/head.png)
 
 经过对番茄工作法的系统学习后，对原来在notion进行的工作流进行改造，创建番茄工作法工作主页，支持了作者所有的方法要点：
 

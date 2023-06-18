@@ -4,12 +4,10 @@ export const zhSidebar = sidebar({
   "/": [
     "",
     {
-      text: "文章",
+      text: "时间管理",
       icon: "book",
-      prefix: "posts/",
+      prefix: "time/",
       children: "structure",
     },
-    "intro",
-    "slides",
   ],
 });
