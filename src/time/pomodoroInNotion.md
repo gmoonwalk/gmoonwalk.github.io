@@ -9,7 +9,7 @@ tag:
 ---
 # Notion中应用番茄工作法
 
-![Preview](Notion%E4%B8%AD%E5%BA%94%E7%94%A8%E7%95%AA%E8%8C%84%E5%B7%A5%E4%BD%9C%E6%B3%95%2033955c35970a474abc922ab9e22ec04c/WXWorkCapture_16868825012377.png)
+![Preview](pomodoroInNotion/head.png)
 
 经过对番茄工作法的系统学习后，对原来在notion进行的工作流进行改造，创建番茄工作法工作主页，支持了作者所有的方法要点：
 
@@ -47,7 +47,7 @@ tag:
 - 预计番茄：数字，预估番茄数量
 - 可选：小红旗 优先任务；到期时间 到期前必须处理的任务；
 
-![properties](Notion%E4%B8%AD%E5%BA%94%E7%94%A8%E7%95%AA%E8%8C%84%E5%B7%A5%E4%BD%9C%E6%B3%95%2033955c35970a474abc922ab9e22ec04c/Untitled.png)
+![properties](pomodoroInNotion/Untitled.png)
 
 ## DatabseView
 
@@ -55,7 +55,7 @@ tag:
 
 - 日程：创建filter，筛选标签中包含daily；并且还未完成或者完成时间是今天的。这样就能看到今天计划内的任务和今天完成的任务了。
 
-![filter](Notion%E4%B8%AD%E5%BA%94%E7%94%A8%E7%95%AA%E8%8C%84%E5%B7%A5%E4%BD%9C%E6%B3%95%2033955c35970a474abc922ab9e22ec04c/Untitled%201.png)
+![filter](pomodoroInNotion/Untitled_1.png)
 
 - Inbox：表示任务收件箱，所有的突发奇想，计划任务，长期任务等等，都在这里。filter选项，选择完成状态未勾选即可。
 
