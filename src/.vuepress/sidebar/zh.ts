@@ -32,5 +32,14 @@ export const zhSidebar = sidebar(
         children: "structure",
       },
     ],
+
+    "/unityPackages/": [
+      {
+        text: "Unity Packages",
+        icon: "laptop-code",
+        link: "/unityPackages/",
+        children: "structure",
+      },
+    ],
   }
   );
