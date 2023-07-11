@@ -1,15 +1,13 @@
+---
+icon: pen-to-square
+date: 2023-07-07 1:00:00
+order: 1
+category:
+  - 游戏开发
+tag:
+  - unity
+---
 # Unity Package简评：Lean Touch+
-
-创建时间: July 6, 2023 6:52 PM
-完成: Yes
-完成时间: July 7, 2023
-标签: daily
-番茄状态: 🍅
-🍅中断次数: 0
-🍅完成数: 1
-🍅干扰次数: 0
-🍅记录: x
-🚩: No
 
 [https://assetstore.unity.com/packages/tools/input-management/lean-touch-72356?aid=1101l4Jks&utm_campaign=unity_affiliate&utm_medium=affiliate&utm_source=partnerize-linkmaker](https://assetstore.unity.com/packages/tools/input-management/lean-touch-72356?aid=1101l4Jks&utm_campaign=unity_affiliate&utm_medium=affiliate&utm_source=partnerize-linkmaker)
 

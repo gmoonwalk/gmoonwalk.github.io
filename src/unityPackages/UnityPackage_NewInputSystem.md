@@ -1,13 +1,13 @@
+---
+icon: pen-to-square
+date: 2023-07-07 2:00:00
+order: 2
+category:
+  - 游戏开发
+tag:
+  - unity
+---
 # Unity Package简评：New Input System
-
-创建时间: July 7, 2023 1:58 PM
-完成: Yes
-完成时间: July 7, 2023
-标签: daily
-🍅中断次数: 0
-🍅完成数: 0
-🍅干扰次数: 0
-🚩: No
 
 [https://docs.unity3d.com/Packages/com.unity.inputsystem@1.6/manual/index.html](https://docs.unity3d.com/Packages/com.unity.inputsystem@1.6/manual/index.html)
 
